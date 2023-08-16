@@ -1,0 +1,19 @@
+.newMessagesBar-1hF-9G {
+    background-color: #7738ecaf !important;
+    border-radius: 16px;
+    top: 15px;
+}
+
+.message-2CShn3,.repliedMessage-3Z6XBG,.avatar-2e8lTP {
+    transition: 300ms;
+}
+
+.avatar-2e8lTP:hover {
+    transform: scale(1.2);
+    filter: drop-shadow(0px 0px 3px white) !important;
+}
+
+.repliedMessage-3Z6XBG:hover {
+    transform: scale(1.1);
+    filter: drop-shadow(0px 0px 1px white);
+}
